@@ -651,12 +651,12 @@ section {
 }
 
 .counts .count-box span {
-  font-size: 42px;
-  line-height: 24px;
+  font-size: 30px;
+  line-height: 40px;
   display: block;
   font-weight: 700;
   color: #0b2341;
-  margin-left: 50px;
+  margin-left: 40px;
 }
 
 .counts .count-box p {
@@ -1636,16 +1636,16 @@ header .navbar .navbar-nav li .dropdown-menu a.readMore:hover span {
   color: #0b2341;
   text-align: center;
   box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
-  padding: 20px 0 30px 0;
+  padding: 20px 0 30px 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   background: #fff;
 }
 
 .contact .info-box i {
   font-size: 32px;
   color: #ed502e;
-  border-radius: 50%;
   padding: 8px;
-  border: 2px dotted #fbdad2;
 }
 
 .contact .info-box h3 {
